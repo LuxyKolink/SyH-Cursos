@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Presentación del Curso.md",
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Presentación del Curso.md",
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Presentación del Curso.md",
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Presentación del Curso.md"
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
+    "Curso/Investigación/Backend/Introducción a Backend.md",
+    "Curso/Investigación/Backend/Backend vs Frontend.md",
+    "Curso/Investigación/Presentación del Curso.md",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "lu89284a79sp.tmp",
     "lu89284a79sm.tmp",
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "lu89284a79sj.tmp",
-    "Curso/Investigación/Backend/Introducción a Backend.md",
-    "Curso/Investigación/Presentación del Curso.md",
-    "Curso/Investigación/Backend/Backend vs Frontend.md",
     "Curso/Contenidos.md",
     "Curso/Investigación/Node/Historia y contexto.md",
     "Curso/Investigación/Node/Características.md",
@@ -176,7 +176,6 @@
     "Curso/Backend/Introducción a Backend.md",
     "Cronograma-backend.ods",
     "lu71082uszcl.tmp",
-    "lu71082uszci.tmp",
     "Curso/Fundamentos/Git.md",
     "Curso/Fundamentos/Javascript.md",
     "Curso/Backend/Backend.md"
