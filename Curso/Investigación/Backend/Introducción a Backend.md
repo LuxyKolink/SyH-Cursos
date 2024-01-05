@@ -36,6 +36,7 @@ laspeticiones por recursos dinámicos son ejecutados en el lado servidor, lo que
 ###  Funcionalidades
 
 - Almacenamiento eficiente y entrega de información
+
 - Experiencia de usuario customizada
 - Acceso a recursos controlados
 - Información de estado/ sesión almacenada
