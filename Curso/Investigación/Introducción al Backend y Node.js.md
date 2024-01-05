@@ -1,7 +1,6 @@
-
-1.1 Introducción a Backend:
--  [[Definición y funciones del backend]].
-- Comparación entre desarrollo frontend y backend. 
+1.1 [[Introducción a Backend]]:
+    - Definición y funciones del backend.
+    - Comparación entre desarrollo frontend y backend. 
 1.2 Introducción a Node.js:
     - Historia y contexto de Node.js.
     - Características clave de Node.js:

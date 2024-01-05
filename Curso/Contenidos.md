@@ -1,4 +1,4 @@
-
+0. [[Presentación del Curso]]
 1. [[Introducción al Backend y Node.js]]
 	1.1 Introducción a Backend:
     - Definición y funciones del backend.
@@ -6,26 +6,7 @@
     1.2 Introducción a Node.js:
     - Historia y contexto de Node.js.
     - Características clave de Node.js:
-        - Asincronía
-        - V8 Engine
-        - Event Loop
-        - Express.js
-        - NPM (Node Package Manager)
-        - WebSocket y Socket.IO
-        - Manejo de Eventos
-        - Streaming de Datos
-        - Desarrollo Rápido
-        - JSON Everywhere
-        - Ecosistema Amplio
-        - Escalabilidad Horizontal
-        - Multiplataforma
-        - Docker y Contenedores
     - Comparación con otros entornos de ejecución:
-        - Java
-        - Python
-        - Ruby
-        - .Net
-        - PHP
 2. **Arquitecturas Backend y Aplicaciones en Node.js** 
 	2.1 Arquitecturas Backend:
     - Monolítico vs. Microservicios.
@@ -60,20 +41,17 @@
     - Uso de middleware personalizado.
     - Implementación de hooks para pre y post procesamiento.
 5. **Seguridad y Manejo de Errores** 5.1 Seguridad en el Backend:
-    
     - Autenticación y autorización.
     - Prevención de ataques comunes (ej. inyección SQL, CSRF).
     - Manejo seguro de contraseñas y datos sensibles. 5.2 Manejo de Errores y Depuración:
     - Herramientas y prácticas para la identificación y resolución de errores.
     - Uso de logs para depuración.
 6. **Desarrollo Colaborativo y Tendencias** 6.1 Desarrollo Colaborativo:
-    
     - Control de versiones (ej. Git).
     - Colaboración en equipos utilizando herramientas como GitHub.
     - Metodologías ágiles para el desarrollo de software. 6.2 Tendencias y Novedades:
     - Nuevas tecnologías y herramientas en el mundo del desarrollo backend.
 7. **Estudio de Casos y Casos Prácticos** 7.1 Estudio de Casos:
-    
     - Análisis de casos reales de desarrollo backend en Genexus.
     - Resolución de problemas específicos encontrados en proyectos previos. 7.2 Estudio de Casos Prácticos:
     - Aplicación de los conceptos aprendidos en proyectos del mundo real.
@@ -88,4 +66,3 @@
 5. [Introduction to the Back End | The Odin Project](https://www.theodinproject.com/lessons/nodejs-introduction-to-the-back-end)
 6. [About the course | Full Stack open](https://fullstackopen.com/en/about)
 7. [Introduction to Node.js | Node.js (nodejs.org)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-8. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Backend/Definición y funciones del backend.md",
+                "file": "Curso/Investigación/Presentación del Curso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Backend/Definición y funciones del backend.md",
+                "file": "Curso/Investigación/Presentación del Curso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Backend/Definición y funciones del backend.md",
+                "file": "Curso/Investigación/Presentación del Curso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Backend/Definición y funciones del backend.md"
+                "file": "Curso/Investigación/Presentación del Curso.md"
               }
             }
           }
@@ -148,22 +148,29 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
-    "Pasted image 20240104171932.png",
-    "Pasted image 20240104171241.png",
-    "Curso/Contenidos.md",
-    "Curso/Contenidos Backend.md",
-    "Curso/Contenidos Node Js.md",
-    "Curso/Ejercicios/Freecodecamp.md",
+    "lu89284a79sp.tmp",
+    "lu89284a79sm.tmp",
     "Curso/Investigación/Introducción al Backend y Node.js.md",
-    "Curso/Investigación/Node/Historia y contexto.md",
-    "Curso/Investigación/Backend/Definición y funciones del backend.md",
+    "lu89284a79sj.tmp",
+    "Curso/Investigación/Backend/Introducción a Backend.md",
+    "Curso/Investigación/Presentación del Curso.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
-    "Notas/Objetivos del curso.md",
+    "Curso/Contenidos.md",
+    "Curso/Investigación/Node/Historia y contexto.md",
     "Curso/Investigación/Node/Características.md",
-    "Untitled.md",
-    "Curso/Investigación/Node",
+    "Introdución.md",
+    "Curso/Contenidos Node Js.md",
+    "Curso/Contenidos Backend.md",
+    "Ejercicios/Freecodecamp.md",
+    "Images",
     "Notas/Welcome.md",
     "Notas/Create a link.md",
+    "Notas/Objetivos del curso.md",
+    "lu89284a79sg.tmp",
+    "Images/Pasted image 20240104171932.png",
+    "Images/Pasted image 20240104171241.png",
+    "Untitled.md",
+    "Curso/Investigación/Node",
     "Curso/Investigación/Backend",
     "Curso/Investigación",
     "Curso/Backend/Introducción a Backend.md",
@@ -172,10 +179,6 @@
     "lu71082uszci.tmp",
     "Curso/Fundamentos/Git.md",
     "Curso/Fundamentos/Javascript.md",
-    "Curso/Fundamentos",
-    "Curso/Ejercicios",
-    "Curso/Backend/Backend.md",
-    "Curso/Backend",
-    "Curso"
+    "Curso/Backend/Backend.md"
   ]
 }
