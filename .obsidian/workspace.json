@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Presentación del Curso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Presentación del Curso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Presentación del Curso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md"
+                "file": "Curso/Investigación/Presentación del Curso.md"
               }
             }
           }
@@ -148,10 +148,18 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
+    "Diapositivas/Introducción Backend.odp",
+    "Diapositivas/lu89284a79sv.tmp",
+    "Diapositivas/Introducción Backend NodeJs.odp",
+    "Diapositivas/Nuevo Presentación OpenDocument.odp",
+    "Diapositivas/Sin título 18.odp",
+    "Diapositivas/Presentación curso.odp",
+    "Diapositivas",
+    "Nueva carpeta",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
     "Curso/Investigación/Presentación del Curso.md",
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "lu89284a79sp.tmp",
     "lu89284a79sm.tmp",
     "lu89284a79sj.tmp",
@@ -162,20 +170,13 @@
     "Curso/Contenidos Node Js.md",
     "Curso/Contenidos Backend.md",
     "Ejercicios/Freecodecamp.md",
-    "Images",
     "Notas/Welcome.md",
     "Notas/Create a link.md",
     "Notas/Objetivos del curso.md",
-    "lu89284a79sg.tmp",
     "Images/Pasted image 20240104171932.png",
     "Images/Pasted image 20240104171241.png",
     "Untitled.md",
-    "Curso/Investigación/Node",
-    "Curso/Investigación/Backend",
-    "Curso/Investigación",
     "Curso/Backend/Introducción a Backend.md",
-    "Cronograma-backend.ods",
-    "lu71082uszcl.tmp",
     "Curso/Fundamentos/Git.md",
     "Curso/Fundamentos/Javascript.md",
     "Curso/Backend/Backend.md"

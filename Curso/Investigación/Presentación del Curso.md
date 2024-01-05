@@ -2,7 +2,7 @@ Contenidos:
 Metodología de aprendizaje
 Condiciones 
 Presentación
-Contenidos
+- [x] Contenidos
 Diapositivas
 Material Adicional
 Código
