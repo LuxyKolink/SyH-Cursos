@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Node/Características.md",
+                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Node/Características.md",
+                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Node/Características.md",
+                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Node/Características.md"
+                "file": "Curso/Investigación/Backend/Backend vs Frontend.md"
               }
             }
           }
@@ -151,10 +151,10 @@
     "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
     "Curso/Investigación/Node/Características.md",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Investigación/Node/Historia y contexto.md",
     "Curso/Investigación/Presentación del Curso.md",
     "Curso/Investigación/Backend/Comparación Backend vs Frontend.md",
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Contenidos.md",
     "lu89284a79t3.tmp",
     "Diapositivas/Introducción Backend.odp",

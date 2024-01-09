@@ -9,7 +9,7 @@ os procesos de backend incluyen:
 - Procesar las peticiones de una página
 - Ejecuta la estructura de una página (HTML)
 - Accede a la información almacenada en la base de datos
-- Guarda  o actualiza registros en la base de datos
+- Guarda o actualiza registros en la base de datos
 - Encripta información
 - Maneja descarga de archivos
 
