@@ -1,5 +1,7 @@
 ### Diferencias
 
+El código que se escribe en lado servidor tiene diferencias con respecto al código que se escribe en el lado cliente, ambos tienen diferentes propósitos, no necesariamente están escritos en el mismo lenguaje, y se ejecutan en en diferentes ambientes de sistemas operativos.
+
 
 
 ### Referencias
