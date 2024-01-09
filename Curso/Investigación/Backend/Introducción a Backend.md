@@ -13,7 +13,7 @@ Los procesos de backend incluyen:
 - Encripta información
 - Maneja descarga de archivos
 
-El desarrollo backend permite flexibilidad en cuanto al lenguaje en el que se desarrolla, ya que las operaciones que se realizan en este no dependen del navegador del usuario,. el cuál opera independiente del servidor y solo esta interesado en recibir las peticiones correctamente.
+El desarrollo backend permite flexibilidad en cuanto al lenguaje en el que se desarrolla, ya que las operaciones que se realizan en este no dependen del navegador del usuario, el cuál opera independiente del servidor y solo esta interesado en recibir las peticiones correctamente.
 
 los navegadores se comunican con servidores web, usando el protocolo HTTP (HyperText Transfer Protocol). el navegador envía este tipo de peticiones al servidor cuando se realiza una  determinada acción dentro de la página.
 
