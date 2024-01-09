@@ -4,7 +4,7 @@
 
 El backend se refiere a cualquier parte de un sitio web o software que los usuarios no pueden visualizar, también es conocido cómo el nivel de acceso de datos de cualquier aplicación.
 La mayoría de las páginas web actuales son dinámicas, lo que significa que contienen scripts que se ejecutan en el servidor web cada vez que se accede a una página.
-os procesos de backend incluyen:
+Los procesos de backend incluyen:
 
 - Procesar las peticiones de una página
 - Ejecuta la estructura de una página (HTML)
