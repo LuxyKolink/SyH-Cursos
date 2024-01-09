@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
+                "file": "Curso/Investigación/Node/Características.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
+                "file": "Curso/Investigación/Node/Características.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
+                "file": "Curso/Investigación/Node/Características.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Backend/Introducción a Backend.md"
+                "file": "Curso/Investigación/Node/Características.md"
               }
             }
           }
@@ -148,7 +148,14 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
+    "Curso/Investigación/Backend/Introducción a Backend.md",
+    "Curso/Investigación/Backend/Backend vs Frontend.md",
+    "Curso/Investigación/Node/Características.md",
+    "Curso/Investigación/Node/Historia y contexto.md",
     "Curso/Investigación/Presentación del Curso.md",
+    "Curso/Investigación/Backend/Comparación Backend vs Frontend.md",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
+    "Curso/Contenidos.md",
     "lu89284a79t3.tmp",
     "Diapositivas/Introducción Backend.odp",
     "Diapositivas/lu89284a79sv.tmp",
@@ -158,13 +165,7 @@
     "Diapositivas/Presentación curso.odp",
     "Diapositivas",
     "Nueva carpeta",
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
-    "Curso/Investigación/Backend/Introducción a Backend.md",
-    "Curso/Investigación/Backend/Backend vs Frontend.md",
     "lu89284a79sp.tmp",
-    "Curso/Contenidos.md",
-    "Curso/Investigación/Node/Historia y contexto.md",
-    "Curso/Investigación/Node/Características.md",
     "Introdución.md",
     "Curso/Contenidos Node Js.md",
     "Curso/Contenidos Backend.md",
