@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
+                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
+                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
+                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Backend/Backend vs Frontend.md"
+                "file": "Curso/Investigación/Backend/Introducción a Backend.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
+    "Images/Pasted image 20240104171241.png",
+    "Images/Pasted image 20240104171241 1.png",
+    "Images/Pasted image 20240104171932.png",
     "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
     "Curso/Investigación/Node/Características.md",
@@ -173,8 +176,6 @@
     "Notas/Welcome.md",
     "Notas/Create a link.md",
     "Notas/Objetivos del curso.md",
-    "Images/Pasted image 20240104171932.png",
-    "Images/Pasted image 20240104171241.png",
     "Untitled.md",
     "Curso/Backend/Introducción a Backend.md",
     "Curso/Fundamentos/Git.md",
