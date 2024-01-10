@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Node/Asincronía.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Node/Asincronía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Node/Asincronía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md"
+                "file": "Curso/Investigación/Node/Asincronía.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
+    "Curso/Investigación/Node/Características.md",
     "Curso/Investigación/Node/Manejo de eventos.md",
     "Curso/Investigación/Node/Historia y contexto.md",
-    "Curso/Investigación/Node/Características.md",
+    "Curso/Investigación/Presentación del Curso.md",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Investigación/Node/Asincronía.md",
     "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
-    "Curso/Investigación/Presentación del Curso.md",
     "Images/Pasted image 20240104171241.png",
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Contenidos.md",
     "Images/Pasted image 20240104171241 1.png",
     "Images/Pasted image 20240104171932.png",
