@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "83f7254a1e9d4241",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f6144e0ded96dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso/Investigación/Backend/Introducción a Backend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -166,16 +148,18 @@
   },
   "active": "a992921458fd8980",
   "lastOpenFiles": [
+    "Curso/Investigación/Node/Manejo de eventos.md",
+    "Curso/Investigación/Node/Historia y contexto.md",
+    "Curso/Investigación/Node/Características.md",
+    "Curso/Investigación/Node/Asincronía.md",
     "Curso/Investigación/Backend/Introducción a Backend.md",
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
     "Curso/Investigación/Presentación del Curso.md",
-    "Curso/Contenidos.md",
     "Images/Pasted image 20240104171241.png",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
+    "Curso/Contenidos.md",
     "Images/Pasted image 20240104171241 1.png",
     "Images/Pasted image 20240104171932.png",
-    "Curso/Investigación/Node/Características.md",
-    "Curso/Investigación/Node/Historia y contexto.md",
     "Curso/Investigación/Backend/Comparación Backend vs Frontend.md",
     "lu89284a79t3.tmp",
     "Diapositivas/Introducción Backend.odp",
