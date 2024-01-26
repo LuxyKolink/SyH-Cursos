@@ -6,6 +6,7 @@
       {
         "id": "11c48e7fdcc4c49a",
         "type": "tabs",
+        "dimension": 46.30071599045346,
         "children": [
           {
             "id": "a992921458fd8980",
@@ -13,7 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Node/Asincronía.md",
+                "file": "Curso/Investigación/Backend/Backend vs Frontend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8aa76cdabd74d0e",
+        "type": "tabs",
+        "dimension": 53.699284009546545,
+        "children": [
+          {
+            "id": "4a48f5c2b04c9b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Investigación/Node/Asincronía.md",
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Investigación/Node/Asincronía.md",
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Investigación/Node/Asincronía.md"
+                "file": "Curso/Investigación/Introducción al Backend y Node.js.md"
               }
             }
           }
@@ -146,18 +166,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a992921458fd8980",
+  "active": "4a48f5c2b04c9b88",
   "lastOpenFiles": [
+    "Curso/Investigación/Backend/Backend vs Frontend.md",
+    "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Introducción al Backend y Node.js.md",
+    "Curso/Investigación/Presentación del Curso.md",
+    "Curso/Investigación/Node/Asincronía.md",
     "Curso/Investigación/Node/V8.md",
     "Curso/Investigación/Node/Stream.md",
     "Curso/Investigación/Node/Manejo de eventos.md",
-    "Curso/Investigación/Node/Asincronía.md",
     "Curso/Investigación/Node/Historia y contexto.md",
     "Curso/Investigación/Node/Características.md",
-    "Curso/Investigación/Backend/Backend vs Frontend.md",
-    "Curso/Investigación/Backend/Introducción a Backend.md",
-    "Curso/Investigación/Presentación del Curso.md",
     "Curso/Contenidos.md",
     "Images/Pasted image 20240104171241.png",
     "Images/Pasted image 20240104171241 1.png",
