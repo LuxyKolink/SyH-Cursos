@@ -33,6 +33,7 @@ A diferencia del desarrollo Backend, el desarrollo Frontend consiste en la conve
 
 Los desarrolladores dan vida a las páginas web gracias a los lenguajes de programación HTML, CSS, y Javascript, los cuales juegan un papel importante en la construcción y diseño de los componentes de interfaz; así mismo, el uso de Frameworks permite a los desarrolladores facilitar la construcción de la aplicación web a través del conjunto de herramientas que este ofrece, permitiendo así, el desarrollo de aspectos únicos del sistema.
 
+###### Diferencias Principales
 
 
 
