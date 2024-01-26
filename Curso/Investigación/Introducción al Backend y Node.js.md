@@ -4,7 +4,7 @@
 1.2 Introducción a Node.js:
     - Historia y contexto de Node.js.
     - Características clave de Node.js:
-### 1. Introducción al Backend
+## 1. Introducción al Backend
 
 #### 1.1. Definiciones y funciones del backend
 
@@ -36,6 +36,7 @@ Los desarrolladores dan vida a las páginas web gracias a los lenguajes de progr
 ###### Diferencias Principales
 
 
+## 2. Introducción a Node.js
 
 
 
