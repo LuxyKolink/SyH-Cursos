@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Investigación/Introducción al Backend y Node.js.md",
+                "file": "Curso/Investigación/Aplicación de Conceptos en Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aplicación de Conceptos en Node.js.md",
+                "file": "Curso/Javascript/Valores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aplicación de Conceptos en Node.js.md",
+                "file": "Curso/Investigación/Aplicación de Conceptos en Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aplicación de Conceptos en Node.js.md",
+                "file": "Curso/Investigación/Aplicación de Conceptos en Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aplicación de Conceptos en Node.js.md"
+                "file": "Curso/Investigación/Aplicación de Conceptos en Node.js.md"
               }
             }
           }
@@ -159,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33eebf44a816b8e3",
+  "active": "a992921458fd8980",
   "lastOpenFiles": [
-    "Curso/Investigación/Introducción al Backend y Node.js.md",
-    "Aplicación de Conceptos en Node.js.md",
+    "Curso/Javascript/Valores.md",
+    "Curso/Investigación/Aplicación de Conceptos en Node.js.md",
     "Curso/Investigación/Presentación del Curso.md",
+    "Curso/Investigación/Introducción al Backend y Node.js.md",
+    "Curso/Javascript",
     "Curso/Contenidos.md",
     "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
@@ -187,7 +188,6 @@
     "Diapositivas/Presentación curso.odp",
     "Diapositivas",
     "Nueva carpeta",
-    "lu89284a79sp.tmp",
     "Introdución.md",
     "Curso/Contenidos Node Js.md",
     "Curso/Contenidos Backend.md",
