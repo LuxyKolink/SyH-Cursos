@@ -51,3 +51,6 @@
 
 10.  Objetos?
 - Colección de propiedades separadas por comas
+
+11.  ReadFileSync() y ReadFile()
+- Módulos de fs (Módulo que permite )
