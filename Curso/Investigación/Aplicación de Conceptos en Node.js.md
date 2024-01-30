@@ -39,3 +39,6 @@
 - Añade valores a un array
 
 7. .lenght? -> Longitud de una vista
+
+8. Módulo OS?
+- 
