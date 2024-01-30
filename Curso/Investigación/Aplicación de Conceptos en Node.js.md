@@ -41,4 +41,13 @@
 7. .lenght? -> Longitud de una vista
 
 8. Módulo OS?
-- 
+- Propiedades del sistema operativo
+- Ej: os.cpus()
+- Tipo de dato = Object[]
+- Contiene -> Model(String), Speed(number), times(Object -> ...)
+
+9. .map()?
+- Llama una función callback que itera un elemento por lista (Array) y construye una nueva lista con los resultados.
+
+10.  Objetos?
+- Colección de propiedades separadas por comas
