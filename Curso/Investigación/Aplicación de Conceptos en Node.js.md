@@ -52,5 +52,34 @@
 10.  Objetos?
 - Colección de propiedades separadas por comas
 
-11.  ReadFileSync() y ReadFile()
-- Módulos de fs (Módulo que permite )
+11. CommonJs o ES?
+- CommonJs es la forma por defecto de importar y exportar paquetes, mientras que los módulos ES hacen parte del formato estándar de Javascript.
+- Las antiguas versiones de Node no tiene soporte para módulos ES.
+- CommonJs ofrece flexibilidad (Invocar el módulo directamente dentro de una declaración)
+- CommonJS = síncrono
+- ES = asíncrono
+
+12.  ReadFileSync() y ReadFile()
+- Módulos de fs (Módulo que permite interactuar con el sistema de archivos del  SO)
+- Lee el contenido de un archivo (tanto síncrona cómo asincrónicamente).
+
+13. Que es un buffer?
+- Una secuencia de datos binarios almacenada en memoria
+- El dato que devuelve el método ReadFile(), similar a una matriz pero su tamaño es inmutable.
+
+14. UTF8 y ToString()?
+- Codificación de caracteres (1 a 4 bytes)
+- toString devuelve la cadena a la que representa el objeto.
+
+15. .split()?
+- Divide un string en un array mediante separación de cadenas.
+
+16. /r/n?
+-  r -> Lugar en el que la linea vuelve a empezar -> "(aquí)Hola"
+- n -> Salto de linea
+- En otros sistemas operativos no es necesario poner ambas
+
+17. Función Callback?
+-  Aquella que es pasada como _argumento_ a otra función para que sea "llamada de nuevo" (call back) en un momento posterior.
+
+18. 
