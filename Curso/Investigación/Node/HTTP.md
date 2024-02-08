@@ -14,6 +14,35 @@
 ## HTTPS
 - Secure Hypertext Transfer Protocol: Protocolo que añade seguridad en el proceso de transferencia de datos, al permitir encriptar los mensajes transferidos entre cliente y servidor.
 - Los mensajes son imposibles de leer gracias a los algoritmos de encriptación
+- Se previenen los ataques por Hackers
+#### Encriptación
+- 
+
+
 ![[Pasted image 20240208112318.png]]
 ![[Pasted image 20240208112738.png]]
+
+- Protege la información a través de los siguientes protocolos:
+
+#### SSL
+- Hola
+
+#### TLS
+
+
+# Por qué HTTP?
+
+- Persona esta asociada a una cooperativa.
+- Quiero hacer pago a una cuenta de ahorros.
+- Los directivos de la entidad financiera se encargan de registrar el pago.
+- Este es el proceso que hace que el sistema y la entidad financiera funcione (A través de internet).
+
+- ### HTTP es el protocolo que se encarga de registrar estos movimientos.
+
+- Es el protocolo de comunicación mas usado
+
+Por qué cuando visitamos una página web siempre nos genera la siguiente estructura?
+**http://nombredemipagina.com**
+- Siempre que se visita una página web, estamos usando el protocolo para realizar esta acción
+
 
