@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-01.md",
+                "file": "Curso/Investigación/Node/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-01.md",
+                "file": "Curso/Investigación/Node/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-01.md",
+                "file": "Curso/Investigación/Node/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-01.md"
+                "file": "Curso/Investigación/Node/HTTP.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "33eebf44a816b8e3",
   "lastOpenFiles": [
-    "Images/Pasted image 20240104171932.png",
-    "2024-02-01.md",
-    "Curso/Contenidos.md",
-    "Curso/Investigación/Backend/Introducción a Backend.md",
     "Curso/Investigación/Aplicación de Conceptos en Node.js.md",
+    "Curso/Investigación/Node/HTTP.md",
     "Curso/Investigación/Introducción al Backend y Node.js.md",
     "Curso/Investigación/Presentación del Curso.md",
+    "Curso/Contenidos.md",
+    "Curso/Javascript/Valores.md",
+    "2024-02-01.md",
+    "Images/Pasted image 20240104171932.png",
+    "Curso/Investigación/Backend/Introducción a Backend.md",
     "Images/Pasted image 20240104171241.png",
     "Ejercicios/Freecodecamp.md",
-    "Curso/Javascript/Valores.md",
     "Curso/Investigación/Backend/Backend vs Frontend.md",
     "Curso/Javascript",
     "Curso/Investigación/Node/V8.md",
