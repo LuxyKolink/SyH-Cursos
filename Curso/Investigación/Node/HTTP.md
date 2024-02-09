@@ -16,7 +16,9 @@
 - Los mensajes son imposibles de leer gracias a los algoritmos de encriptación
 - Se previenen los ataques por Hackers
 #### Encriptación
-- 
+- Ciencia de crear secretos
+![[Pasted image 20240209105831.png]]
+
 
 
 ![[Pasted image 20240208112318.png]]
