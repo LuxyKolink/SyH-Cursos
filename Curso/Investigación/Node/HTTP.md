@@ -17,6 +17,8 @@
 - Se previenen los ataques por Hackers
 #### Encriptación
 - Ciencia de crear secretos
+- Manipula cierta cantidad de bytes correspondientes a datos importantes, desordena y revuelve los datos a través de un algoritmo secreto, haciendo imposible la lectura de los datos sin las credenciales correctas
+- Siempre está evolucionando
 ![[Pasted image 20240209105831.png]]
 
 
