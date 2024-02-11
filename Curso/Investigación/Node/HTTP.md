@@ -67,7 +67,8 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 
 ### Clientes y Servidores
 
-- 
+- Cliente: Usuario que ingresa a la página de Cooprodecol
+	- 
 ### Preguntas?
 - Quien empieza la comunicación?
 - 
