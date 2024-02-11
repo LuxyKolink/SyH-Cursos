@@ -48,5 +48,5 @@
 Por qué cuando visitamos una página web siempre nos genera la siguiente estructura?
 **http://nombredemipagina.com**
 - Siempre que se visita una página web, estamos usando el protocolo para realizar esta acción
-
+- Qué e
 
