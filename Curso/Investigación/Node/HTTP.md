@@ -55,3 +55,11 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 - Los protocolos de internet funciona de la misma manera, los computadores se comunican a través de 0 y 1
 - Se establece una comunicación en ese lenguaje, un equipo transmite información y el otro equipo entiende la información y la computa en datos, imágenes, etc;
 
+### Peticiones y respuestas
+- Sistema que permite l comunicación entre dos dispositivos cliente-servidor.
+- Cuando hacemos una petición la página de Cooprodecol:
+	1. Nosotros cómo cliente, le mandamos una petición al servidor
+	2. Servidor procesa la petición
+	3. Envía información a nosotros cómo respuesta.
+- De naturaleza síncrona.
+
