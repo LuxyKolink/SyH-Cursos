@@ -48,5 +48,10 @@
 Por qué cuando visitamos una página web siempre nos genera la siguiente estructura?
 **http://nombredemipagina.com**
 - Siempre que se visita una página web, estamos usando el protocolo para realizar esta acción
-- Qué e
+- Qué es un protocolo?
+	- Imagina que recibes una carta que diga "Alcen la mano"
+	- Se lee la carta y se realiza la acción
+- Es porque hay un protocolo de comunicación a través del texto, nosotros los humanos somos capaces de entenderlo; una serie de reglas que establecen los dos actores de la comunicación
+- Los protocolos de internet funciona de la misma manera, los computadores se comunican a través de 0 y 1
+- Se establece una comunicación en ese lenguaje, un equipo transmite información y el otro equipo entiende la información y la computa en datos, imágenes, etc;
 
