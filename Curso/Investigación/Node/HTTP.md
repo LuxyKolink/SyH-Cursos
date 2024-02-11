@@ -65,6 +65,9 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 
 ![[Pasted image 20240211145148.png]]
 
+### Clientes y Servidores
+
+- 
 ### Preguntas?
 - Quien empieza la comunicación?
 - 
