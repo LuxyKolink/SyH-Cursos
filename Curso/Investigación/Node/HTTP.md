@@ -61,5 +61,10 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 	1. Nosotros cómo cliente, le mandamos una petición al servidor
 	2. Servidor procesa la petición
 	3. Envía información a nosotros cómo respuesta.
-- De naturaleza síncrona.
+- De naturaleza síncrona; sistema de preguntas y respuestas.
 
+![[Pasted image 20240211145148.png]]
+
+### Preguntas?
+- Quien empieza la comunicación?
+- 
