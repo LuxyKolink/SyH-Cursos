@@ -76,6 +76,9 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 # Http a profundidad
 
 - Que tipos de datos quieren visualizar / piden a través de un enlace a una página web?
+![[Pasted image 20240211201812.png]]
+
+- Capa 8 de aplicación
 - 
 ### Preguntas?
 - Quien empieza la comunicación?
