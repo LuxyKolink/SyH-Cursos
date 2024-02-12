@@ -67,8 +67,17 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 
 ### Clientes y Servidores
 
-- Cliente: Usuario que ingresa a la página de Cooprodecol
-	- 
+- Cliente: Usuario que ingresa a la página de Cooprodecol; Cualquier tipo de dispositivo que envía peticiones al servidor
+- Servidor: Un computador que recibe peticiones / puede haber otro servidor que envía y recibe peticiones de otro servidor
+- Un servidor también puede ser cliente entre la comunicación con otro servidor
+
+
+
+# Http a profundidad
+
+- Que tipos de datos quieren visualizar / piden a través de un enlace a una página web?
+- 
 ### Preguntas?
 - Quien empieza la comunicación?
-- 
+- El computador respondiendo una petición en la url es?
+- El servidor nunca para?
