@@ -80,14 +80,32 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 ![[Pasted image 20240211201812.png]]
 
 - Capa 8 de aplicación (TCP/IP)
-	-  TCP: 
-		- Modelo OSI: 
+	- Basado en el modelo OSI, TCP/IP (Protocolo de control de transmisión/ Protocolo de internet) representa una versión concisa del modelo OSI
+	- El objetivo principal de TCP/IP es transferir datos de un computador desde un dispositivo a otro; los datos deben ser legibles y precisos para que el dispositivo que comunica cómo el que recibe, transmitan e identifiquen la misma información.
+	- El modelo TCP/IP divide datos entre paquetes y los combina al otro extremo de la comunicación, permitiendo así la transmisión de datos precisos.
+- Cuál es la diferencia entre TCP/IP?
+	- Se diferencian en la transmisión de datos
+	- IP encuentra el destino del mensaje
+	- TCP envía y recibe el correo
+- Cómo funciona el modelo TCP/IP?
+	- El modelo divide los datos en paquetes al extremo del remitente
+	- Esos paquetes deben ser recombinados en el extremo del receptor para formar la misma información que se envió al principio.
+	- Los datos viajan y se dividen a través del procedimiento de 4 niveles:
+
+Niveles del modelo TCP/IP
+![[Pasted image 20240213115524.png]]
+
+
+-  TCP: 
+	- Modelo OSI: Describe las funciones del sistema de comunicación dividiendo el procedimiento de comunicación en componentes simples.
 - TLS: 
 
 ### Arquitectura
+- Peticiones son enviadas por el cliente (o proxy).
 ![[Pasted image 20240211203806.png]]
 
-- Proxy
+### Proxy
+- 
 
 ### Preguntas?
 - Quien empieza la comunicación?
