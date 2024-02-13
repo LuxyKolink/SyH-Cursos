@@ -80,6 +80,7 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 ![[Pasted image 20240211201812.png]]
 
 - Capa 8 de aplicación (TCP/IP)
+	- Modelo OSI: 
 - TCP: 
 - TLS: 
 
