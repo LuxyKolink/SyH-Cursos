@@ -78,13 +78,17 @@ Por qué cuando visitamos una página web siempre nos genera la siguiente estruc
 - Que tipos de datos quieren visualizar / piden a través de un enlace a una página web?
 ![[Pasted image 20240211201812.png]]
 
-- Capa 8 de aplicación
+- Capa 8 de aplicación (TCP/IP)
+- TCP: 
+- TLS: 
 
 ### Arquitectura
 ![[Pasted image 20240211203806.png]]
 
+- Proxy
 
 ### Preguntas?
 - Quien empieza la comunicación?
 - El computador respondiendo una petición en la url es?
+- Que otros elementos intermedios permiten la comunicación entre el protocolo HTTP?
 - El servidor nunca para?
