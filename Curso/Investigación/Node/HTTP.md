@@ -161,4 +161,5 @@ Niveles del modelo TCP/IP
 - ssl y tls? certificado y canal encriptado de comunicación
 - Cómo funciona http en cooprodecol?
 - Qué es un protocolo?
-- 
+- Que representan las capas del modelo tcp/ip? - routers, switches, cables/ redes: ip, transporte: tcp, aplicación, http
+- status 200? todo ok
