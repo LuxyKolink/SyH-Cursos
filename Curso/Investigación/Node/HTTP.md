@@ -150,7 +150,15 @@ Niveles del modelo TCP/IP
 
 
 ### Preguntas?
-- Quien empieza la comunicación?
-- El computador respondiendo una petición en la url es?
-- Que otros elementos intermedios permiten la comunicación entre el protocolo HTTP?
-- El servidor nunca para?
+- Quien empieza la comunicación? - Cliente
+- El computador respondiendo una petición en la url es? -Servidor
+- Que otros elementos intermedios permiten la comunicación entre el protocolo HTTP? - Proxy
+- El servidor nunca para? - Nunca
+- Cómo viaja una petición http? viaja a través del envio de paquetes por tcp/ip en un canal protegido por tls o ssl
+- Cómo se establece la comunicación entre cliente-servidor? TCP
+- Que pasa cuando ingresamos a una url? genera una estructura con el protocolo de comunicación y un enlace al recurso solicitado
+- Que pasa si no se cigra http? robo de información
+- ssl y tls? certificado y canal encriptado de comunicación
+- Cómo funciona http en cooprodecol?
+- Qué es un protocolo?
+- 
