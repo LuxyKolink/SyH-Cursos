@@ -121,7 +121,13 @@ Niveles del modelo TCP/IP
 - Sencillo
 - Extendible
 - Con sesiones sin estados
-- Conexiones
+- Conexiones: No necesita que el protocolo mantenga comunicación continua, únicamente que sea un protocolo fiable y que los paquetes no se pierdan.
+
+### Flujo HTTP
+- Abre la conexión para realizar una petición.
+- 
+
+
 
 ### Preguntas?
 - Quien empieza la comunicación?
