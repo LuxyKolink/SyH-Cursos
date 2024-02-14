@@ -141,7 +141,11 @@ Niveles del modelo TCP/IP
 
 - Respuestas
 ![[Pasted image 20240214054811.png]]
-
+- Versión del protocolo
+- Código de estado
+- Mensaje de estado
+- Cabeceras HTTP
+- El recurso que se ha pedido (Opcional)
 
 
 
