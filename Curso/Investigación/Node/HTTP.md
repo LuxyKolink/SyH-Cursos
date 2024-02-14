@@ -124,8 +124,24 @@ Niveles del modelo TCP/IP
 - Conexiones: No necesita que el protocolo mantenga comunicación continua, únicamente que sea un protocolo fiable y que los paquetes no se pierdan.
 
 ### Flujo HTTP
-- Abre la conexión para realizar una petición.
-- 
+- Abre la conexión TCP para realizar una petición.
+- Hace una petición HTTP
+- ![[Pasted image 20240214053252.png]]
+- Lee la respuesta enviada por el servidor
+- ![[Pasted image 20240214053318.png]]
+
+## Mensajes HTTP
+- Peticiones:
+![[Pasted image 20240214053456.png]]
+
+- Método HTTP: Define la operación que el cliente quiere realizar
+- La dirección del recurso pedido
+- Cabeceras HTTP: información adicional sobre la petición
+- Cuerpo de mensaje: Envía información al servidor
+
+- Respuestas
+![[Pasted image 20240214054811.png]]
+
 
 
 
