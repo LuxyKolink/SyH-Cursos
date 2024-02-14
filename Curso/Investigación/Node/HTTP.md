@@ -105,7 +105,23 @@ Niveles del modelo TCP/IP
 ![[Pasted image 20240211203806.png]]
 
 ### Proxy
-- 
+- Entre el cliente y el servidor, además existen distintos dispositivos que gestionan los mensajes HTTP. Dada la arquitectura en capas de la Web, la mayoria de estos dispositivos solamente gestionan estos mensajes en los niveles de protocolo inferiores: capa de transporte, capa de red o capa física, siendo así transparentes para la capa de comunicaciones de aplicación del HTTP, además esto aumenta el rendimiento de la comunicación.
+- caching (la caché puede ser pública o privada, como la caché de un navegador)
+- filtrado (como un anti-virus, control parental, ...)
+- balanceo de carga de peticiones (para permitir a varios servidores responder a la carga total de peticiones que reciben)
+- autentificación (para el control al acceso de recursos y datos)
+- registro de eventos (para tener un histórico de los eventos que se producen)
+
+### Cliente
+- Pide recursos al servidor (Imagenes, html, css)
+- Tambien pide documentos de hipertexto (HTTP) con enlaces para acceder a otras páginas
+- EL servidor interpreta las peticiones y procesará las respuestas HTTP para presentar al usuario las páginas que desea
+
+### Características del protocolo
+- Sencillo
+- Extendible
+- Con sesiones sin estados
+- Conexiones
 
 ### Preguntas?
 - Quien empieza la comunicación?
