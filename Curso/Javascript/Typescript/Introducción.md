@@ -53,3 +53,30 @@ Una vez que el compilador de Typescript termina su operación, borra los tipos p
 ### Para programadores Javascript
 
 
+
+
+
+
+
+
+### Desarrollo
+
+## Historias de usuario
+
+- El sistema debe registrar un empleado
+- Sistema debe grabar entradas de dinero, clasificarlas
+- Sistema debe conocer saldo personas y saldo núcleo familiar
+- Ingreso de dinero a Metas
+- 
+- Personas
+	- Entradas (Salario, Herencia, etc...)
+	- Salidas (Gastos, educación, salud)
+	- TipoPersonas
+	- Metas (Viaje, compra vivienda)
+	- Excedente X persona
+
+Control gastos, prestamos
+
+
+
+
